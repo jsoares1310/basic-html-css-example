@@ -1,0 +1,42 @@
+body {
+    padding: 10px;
+    margin:0px;
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(236, 170, 89);
+
+}
+
+header {
+    margin-top: 5px;
+    vertical-align: middle;
+    width: fit-content;
+    height: fit-content;
+    
+    
+}
+
+article {
+    display: inline-block;
+    width: 200px;
+    height: 200px; 
+    margin-right: 100px;
+    border-style: solid;
+    
+}  
+
+img {
+    margin-top: 5px;
+    width: 200px;
+    height: 200px;  
+    display: inline-block;
+    margin-right: 100px;
+}
+
+p.setfont {
+    font-variant: small-caps;
+
+}
